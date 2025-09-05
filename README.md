@@ -1,2 +1,2 @@
 # Movie-Ranker
-Input your favorite movies and ranking through a bracket tournament
+Input your favorite movies and get a definitive ranking through a bracket tournament
